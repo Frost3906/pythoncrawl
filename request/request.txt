@@ -1,0 +1,5 @@
+urllib.request 대체 라이브러리
+-urllib.request 보다 간단한 방법 제공
+- 디코딩도 적절히 알아서 해줌
+-json 처리도 쉽게 할수 있음
+ㅔ
